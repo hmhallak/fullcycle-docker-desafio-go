@@ -1,0 +1,2 @@
+- Link DockerHub: https://hub.docker.com/repository/docker/hmhallak/hello-go
+- Comando para build da <b>imagem otimizada</b> (utilizando Dockerfile.prod): <code>docker build -t hmhallak/hello-go . -f Dockerfile.prod</code>
